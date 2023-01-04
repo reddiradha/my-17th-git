@@ -1,0 +1,12 @@
+h1
+{
+    color: blueviolet;
+    background-color: aqua;
+}
+img
+{
+    border-radius: 20px;
+    border-color: 5px red solid;
+    width: 500px;
+    height: 400px;
+}
